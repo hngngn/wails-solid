@@ -1,0 +1,4 @@
+html,
+body {
+  @apply antialiased font-400 select-none h-full overflow-hidden font-be-vietname-pro;
+}

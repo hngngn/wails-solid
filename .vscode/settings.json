@@ -1,0 +1,11 @@
+{
+    "unocss.root": ["frontend"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "prettier.semi": false,
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 100,
+    "prettier.bracketSameLine": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}

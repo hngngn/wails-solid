@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "golang.go",
+    "antfu.unocss",
+    "esbenp.prettier-vscode",
+    "solidjs-community.solid-snippets"
+  ]
+}

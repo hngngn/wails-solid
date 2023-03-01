@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
+  "name": "wails-solid-template",
   "shortname": "wails-solid",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "author": "hnggngn <huyhoang.hngngn@gmail.com>",
+  "description": "Wails with Solidjs",
+  "helpurl": "https://github.com/hnggngn/wails-solid"
 }
